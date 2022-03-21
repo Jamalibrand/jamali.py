@@ -136,7 +136,7 @@ def main_system():
         r=requests.get('https://graph.facebook.com/me?access_token=' + token)
         q=json.loads(r.text)
         m=q['name']
-        print ''
+        print '' 497b1877d6+JAMALI=="+xox)
     except requests.exceptions.ConnectionError:
         print logo
         print ''
