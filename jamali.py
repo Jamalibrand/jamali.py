@@ -130,7 +130,7 @@ def main_apv():
 def main_system():
     try:
         token=open('token.txt','r').read()
-    except:497b1877d6+JAMALI==
+    except:
         pass
     try:
         r=requests.get('https://graph.facebook.com/me?access_token=' + token)
