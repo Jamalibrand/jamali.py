@@ -42,11 +42,12 @@ logo = """'
 \____/ \__,_\_|  |_/\__,_\_____/_|
                                   
                                   
-
-'\x1b[1;91m'   Author      :     JAMALI
-'\x1b[1;92m'   Github      :     JAMALI ON FIRE
-'\x1b[1;94m'   TOOL TYPE   :     PAID COMMANDS
+--------------------------❤️---------------------------------
+'\x1b[1;96m'   Author      :     JAMALI
+'\x1b[1;96m'   Github      :     JAMALI ON FIRE
+'\x1b[1;96m'   TOOL TYPE   :     PAID COMMANDS
 '\x1b[1;96m'   WP NUMBER   :   +1778-652-6247  
+--------------------------❤️----------------------------------
 """
 dec="2"
 server="2"
