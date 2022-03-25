@@ -152,10 +152,8 @@ def main_system():
     print "\x1b[1;93m[1]   Public Cloning      \x1b[1;92m(Login)"
     print "\x1b[1;91m[2]   Random Cloning     \x1b[1;92m (No Login)"
     print "\x1b[1;92m[3]   File Cloning       \x1b[1;92m (No Login)"
-    print "\x1b[1;93m[4]   File Making Menu\x1b[1;92m    (Login)"
     print "\x1b[1;94m[5]   Check Subscription "
     print "\x1b[1;95m[6]   Update Tools"
-    print "\x1b[1;96m[7]   For Any Help Massage WhatsApp"
     print 43*'~'
     print "\x1b[1;92m[*]\x1b[1;95m For Need Any Help Type 7 And \x1b[1;92mWhatsApp Me  "
     print 43*'~'
@@ -292,7 +290,7 @@ def numcloning():
                 ok.close()
                 oks.append(cid+pass1)
             else:
-                if 'checkpoint' in rana.cookies.get_dict().keys():
+                if 'checkpoint' in JAMALI.cookies.get_dict().keys():
                     
                     print "\x1b[1;91m[JAMALI-CP] "+coc+user + " | " + pass1
                     cp=open('JAMALI random-cp.txt', 'a')
