@@ -42,7 +42,6 @@ logo = """'
 \____/ \__,_\_|  |_/\__,_\_____/_|
                                   
                                   
------------------------------------------------------------
 '\x1b[1;96m'   Author      :     JAMALI
 '\x1b[1;96m'   Github      :     JAMALI ON FIRE
 '\x1b[1;96m'   TOOL TYPE   :     PAID COMMANDS
