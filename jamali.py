@@ -46,8 +46,7 @@ logo = """'
 '\x1b[1;96m'   Github      :     JAMALI ON FIRE
 '\x1b[1;96m'   TOOL TYPE   :     PAID COMMANDS
 '\x1b[1;96m'   WP NUMBER   :   +1778-652-6247  
-------------------------------------------------------------
-"""
+
 dec="2"
 server="2"
 
